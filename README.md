@@ -1,6 +1,6 @@
 ### Hi, I'm Chloe 👋
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="20" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="50" />
 
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
