@@ -1,8 +1,7 @@
-### Hi there 👋
-## Portfolio Site 👉 [here](https://ghost-goblin.github.io/chloeurisohn/)
-My name is Chloe and I am currently working as an IT Technician in the U.K.
-
-- 💻 Coding
+### Hi, I'm Chloe 👋
+***
+I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) full stack JavaScript curriculum.
+- 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)
 - 🎧 Music 
 - ☕ Coffee
 - ⚔️ Games
