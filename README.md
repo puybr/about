@@ -1,4 +1,5 @@
 ### Hi, I'm Chloe 👋
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="100" />
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
 - 🌱 I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) full stack JavaScript curriculum
