@@ -1,12 +1,8 @@
 ### Hi, I'm Chloe 👋
 ***
-I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) full stack JavaScript curriculum.
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
-- 🎧 Music 
-- ☕ Coffee
-- ⚔️ Games
-- 🍕 Pizza
-- ⚡ Fun fact: I love crafting, and drawing
+- 🌱 I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) full stack JavaScript curriculum
+- ⚡ Fun fact: I love crafting and drawing
 
 ### 🛠 Languages & Tools
 <div float="left">
