@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="50" /> Hi, I'm Chloe 👋
+### Hi, I'm Chloe 👋
 
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
