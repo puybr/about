@@ -1,4 +1,4 @@
-### Hi, I'm Chloe 👋
+### Hi there, I'm Chloe 👋
 
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
