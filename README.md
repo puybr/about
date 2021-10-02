@@ -7,5 +7,4 @@ I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.
 - ⚔️ Games
 - 🍕 Pizza
 
-
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" />
