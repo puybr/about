@@ -3,7 +3,7 @@
 
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
-- 🌱 I'm currently enrolled in the [The Odin Project’s](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) full stack JavaScript curriculum
+- 🌱 I'm currently enrolled in the [The Odin Project](https://github.com/TheOdinProject)'s full stack JavaScript curriculum
 - ⚡ Fun fact: I love crafting and drawing
 
 ### 🛠 Languages & Tools
