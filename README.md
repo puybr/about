@@ -1,5 +1,5 @@
 ## Hello friend 👋
-#### My name is Chloe and I'm looking to improve my knowledge in software and web development
+My name is Chloe and I'm looking to improve my knowledge in software and web development
 
 ***
 - 💻 Check out my _[portfolio site](https://ghost-goblin.github.io/chloeurisohn)!_
