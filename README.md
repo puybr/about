@@ -1,5 +1,5 @@
 ### Hello friend 👋
-My name is **Chloe** and this is the home of the projects that I build 🧰
+My name is **Chloe** and this is where I keep all my projects 🧰
 
 ***
 - 💻 Check out my _[portfolio site](https://ghost-goblin.github.io/chloeurisohn)!_
