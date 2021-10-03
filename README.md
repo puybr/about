@@ -21,5 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
 </div>
 
+***
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghost-goblin&show_icons=true&theme=radical)
