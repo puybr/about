@@ -1,4 +1,5 @@
-### Hi there, I'm Chloe 👋
+### Hello friend 👋
+## My name is Chloe and I'm looking to improve my knowledge in software and web developemnt
 
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
