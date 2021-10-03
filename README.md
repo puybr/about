@@ -4,6 +4,7 @@
 ***
 - 💻 Check out my [portfolio site](https://ghost-goblin.github.io/chloeurisohn)!
 - 🌱 I'm currently enrolled in the [The Odin Project](https://github.com/TheOdinProject)'s full stack JavaScript curriculum
+- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love crafting and drawing
 
 ### 🛠 Languages & Tools
