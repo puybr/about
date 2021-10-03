@@ -2,7 +2,7 @@
 #### My name is Chloe and I'm looking to improve my knowledge in software and web development
 
 ***
-- 💻 Check out my _[portfolio site](https://ghost-goblin.github.io/chloeurisohn)_!
+- 💻 Check out my _[portfolio site](https://ghost-goblin.github.io/chloeurisohn)!_
 - 🌱 I'm currently enrolled in the [The Odin Project](https://github.com/TheOdinProject)'s full stack JavaScript curriculum
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love crafting and drawing
