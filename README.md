@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love crafting and drawing
 
+***
+
 ### 🛠 Languages & Tools
 
 <div float="left">
