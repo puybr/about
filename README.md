@@ -9,6 +9,14 @@ My name is **Chloe** and this is where I keep my projects 🧰
 
 ***
 
+### 💾 Operating Systems
+
+<div float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt=Linux" width="50" />
+</div>
+
+***
+
 ### 🛠 Languages & Tools
 
 <div float="left">
