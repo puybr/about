@@ -33,7 +33,3 @@ My name is **Chloe** and this is where I keep my projects 🧰
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" />
 </div>
-
-***
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghost-goblin&show_icons=true&theme=radical)
