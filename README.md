@@ -2,7 +2,7 @@
 My name is **Chloe** and this is where I keep my projects 🧰
 
 ***
-- 💻 Check out my _[portfolio site](https://ghost-goblin.github.io/chloeurisohn)!_
+- 💻 Check out my _[portfolio site](https://puybr.github.io/chloeurisohn)!_
 - 🌱 Currently enrolled in the [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)'s full stack JavaScript curriculum
 - 👯 Looking to collaborate with other content creators
 - ⚡ Fun fact: I love crafting and drawing
