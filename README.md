@@ -2,7 +2,7 @@
 
 - 💻 Check out my _[portfolio site](https://puybr.github.io/chloeurisohn)!_
 - 🌱 Currently enrolled in the [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)'s full stack JavaScript curriculum
-- 👯 Looking to collaborate with open source projects
+- 👯 Looking to collaborate on open source projects
 - ⚡ Fun fact: I love crafting and drawing
 
 ***
