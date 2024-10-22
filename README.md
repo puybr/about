@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="Putty" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="Logstash" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="Logstash" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="50" />
 </div>
