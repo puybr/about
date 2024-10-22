@@ -1,4 +1,4 @@
-### Hello friend 👋
+### Hello 👋
 
 - 💻 Check out my _[portfolio site](https://puybr.github.io/chloeurisohn)!_
 - 👯 Looking to collaborate on open source projects
