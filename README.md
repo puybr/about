@@ -1,6 +1,5 @@
 ### Hello friend 👋
 
-***
 - 💻 Check out my _[portfolio site](https://puybr.github.io/chloeurisohn)!_
 - 🌱 Currently enrolled in the [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)'s full stack JavaScript curriculum
 - 👯 Looking to collaborate with open source projects
