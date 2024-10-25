@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 💻 Check out my _[portfolio site](https://puybr.github.io/chloeurisohn)!_
+- 💻 Check out my _[portfolio site](https://puybr.github.io/dev)!_
 - 👯 Looking to collaborate on open source projects
 - ⚡ Fun fact: I love crafting and drawing
 
