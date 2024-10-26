@@ -2,7 +2,7 @@
 
 - 💻 Check out my _[portfolio site](https://puybr.github.io/dev)!_
 - 👯 Looking to collaborate on open source projects
-- ⚡ Fun fact: I love crafting and drawing
+- ⚡ Fun fact: I love designing and drawing
 
 ***
 
