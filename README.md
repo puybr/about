@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 💻 Check out my _[portfolio site](https://puybr.github.io/dev)!_
+- 💻 Check out my _[portfolio site](https://puybr.github.io/)_!
 - 👯 Looking to collaborate on open source projects
 - ⚡ Fun fact: I love design and drawing
 
